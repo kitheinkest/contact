@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 18.7.2//EN
+N:;Ki The Inkest;;;
+FN:Ki The Inkest
+ORG:Collective Ink KC;
+TITLE:Tattoo Artist
+EMAIL;type=INTERNET;type=WORK;type=pref:kitheinkest@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:(975) 206-8918
+item1.ADR;type=HOME;type=pref:;;3747 Broadway Blvd;Kansas City;MO;64111;Uni
+ ted States
+item1.X-ABADR:us
+NOTE:💲 Use the stripe URL to send your deposit\n💬 No calls— Text only!\n?
+ ? Park in the Blarney Stone lot next door
+item2.URL;type=pref:stripe.com
+item2.X-ABLabel:_$!<HomePage>!$_
+X-SOCIALPROFILE;type=facebook;x-user=facebook.com/kitheinkest.com:http://ww
+ w.facebook.com/facebook.com/kitheinkest.com
+X-SOCIALPROFILE;type=Instagram;x-user=instagram.com/kitheinkest.com:x-apple
+ :instagram.com/kitheinkest.com
+X-SHARED-PHOTO-DISPLAY-PREF:ALWAYS_ASK
+REV:2026-08-17T22:00:27Z
+X-IMAGETYPE:PHOTO
+X-IMAGEHASH:hlRXN+LFZwWaGmJaMJssCw==
+END:VCARD
